@@ -55,7 +55,7 @@ A **Group Manager Bot** built with **Pyrogram** + **MongoDB** for managing Teleg
 
 ### 2. Get Your Fork URL
 ```
-https://github.com/tiwarijiz8900-lgtm/Nomade>/Nomade.git
+https://github.com/LearningBotsOfficial/Nomade>/Nomade.git
 ```
 
 ---
